@@ -60,6 +60,6 @@ export const CONTACT = {
   address: "3,Ajanta Society,Mahvirnagar,Himatnagr ",
   phoneNo: "+91 8487958435 ",
   email: "sthakkar837@gmail.com",
-  linkedin: "https://www.linkedin.com/in/sarthak-thakkar-7",
+  linkedin: "https://www.linkedin.com/in/smit-thakkar-040106241/",
   pdf:"src/assets/smit_cv_.pdf",
 };
