@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate Java full stack developer with a knack for crafting robust and scalable web applications. With 3 months of Internship, I have honed my skills in front-end technologies like React and jsp, as well as back-end technologies like java, MySQL, Spring boot, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = ` I am a passionate .NET full stack developer with a knack for crafting robust and scalable web applications. With 3 months of internship experience, I have honed my skills in front-end technologies like React and Razor Pages, as well as back-end technologies like C#, SQL Server, ASP.NET Core, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile Java full stack developer with a passion for creating efficient and user-friendly web applications. With 3 Months of professional Intrenship, I have worked with a variety of technologies, including React, Spring Boot , java, MySQL, java Servlet page(jsp), and MongoDB. My journey in java web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile .NET full stack developer with a passion for creating efficient and user-friendly web applications. With 3 months of professional internship experience, I have worked with a variety of technologies including ASP.NET Core, C#, SQL Server, Entity Framework, Razor Pages, and MongoDB. My journey in .NET web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -27,18 +27,18 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: " E-commerce Website (.NET)",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+    "Developed a full-featured eCommerce web app using ASP.NET Core and Entity Framework. Included product listing, user auth, shopping cart, and order processing. Built a responsive UI and admin dashboard.Utilized RESTful APIs, role-based access, and clean MVC architecture. Focused on performance, scalability,and full-stack development best practices.",
     technologies: ["HTML", "CSS", "Bootstrap", "jsp", "Mysql"],
   },
   {
-    title: "Tic Tac game",
+    title: "Responsive Website",
     image: project2,
     description:
-      "An Web-application for Enoying and playing Tic tac game with point's 2 player can play it and enjoy it.",
-    technologies: ["HTML", "CSS", "javasctipt"],
+    " Built a fully responsive website, ensuring compatibility across different devices and browsers. Focused on delivering a seamless user experience across platforms." ,
+    technologies: [ "HTML5", "CSS3", "JavaScript"],
   },
   {
     title: "Portfolio Website",
@@ -48,11 +48,11 @@ export const PROJECTS = [
     technologies: ["HTML", "Tailwind CSS", "React", "FramerMotion"],
   },
   {
-    title: "Employee Management",
+    title: "Built a CRUD application using ASP.NET Core Web API and Entity Framework.",
     image: project4,
     description:
-      "A platform for creating Updating Reading Deleting Employee Details and it mange Employee details.",
-    technologies: ["Hibernet", "Maven", "Springboot",  "java"],
+    "Implemented create, read, update, and delete operations with a SQL Server backend. Secured APIs with authentication and followed RESTful conventions. Designed for scalability, clean architecture, and efficient data handling using LINQ and dependency injection",
+    technologies: ["ASP .NET", "SWAGAR", ".NET MVC",  ".NET WEB API"],
   },
 ];
 
@@ -61,5 +61,5 @@ export const CONTACT = {
   phoneNo: "+91 8487958435 ",
   email: "sthakkar837@gmail.com",
   linkedin: "https://www.linkedin.com/in/smit-thakkar-040106241/",
-  pdf:"src/assets/smit_cv_.pdf",
+  pdf:"https://drive.google.com/file/d/1_KcwQVu-oHBKhhxsm1CxJ8Ashjn33QCR/view?usp=sharing",
 };
